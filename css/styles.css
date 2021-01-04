@@ -1,0 +1,135 @@
+a:link {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  width: 5%;
+  border-top: 10px;
+  color: #EAF6F6;
+  margin: 100px auto;
+  border-style: dotted;
+}
+
+.top-container {
+  margin-top: 0;
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.middle-container {
+  margin-top: 50px;
+}
+.circuit-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.camera-icon {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-pic {
+  width: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-description {
+  color: #40514E
+}
+
+.contact-phrase {
+  margin: 40px;
+}
+
+.bottom-container {
+  margin-top: 100px;
+  background-color: #66bfbf;
+  padding: 40px;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.copyright {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #eaf6f6;
+  font-size: 15px;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 200px;
+   font-size: 20px;
+   font-weight: 300;
+   padding: 0;
+   background-color: #11999E;
+   border: solid #11999E 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:link {
+  color: #eaf6f6;
+}
